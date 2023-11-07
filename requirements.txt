@@ -1,0 +1,13 @@
+codeinterpreterapi<=0.0.8
+jupyter-kernel-gateway
+pyparsing
+pillow
+kiwisolver
+fonttools
+cycler
+contourpy
+matplotlib
+seaborn
+numpy
+scipy
+pandas
